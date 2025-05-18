@@ -1,1 +1,1 @@
-# my-affiliate-page
+Welcome to my Amazon affiliate test page!
